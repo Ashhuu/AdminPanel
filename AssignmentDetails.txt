@@ -1,0 +1,10 @@
+Task: To make Master Admin Dashboard - Login & Registration
+Description:
+
+1. Learned how to manipulate data in MySQL
+2. Learned how to create relations among tables in the database
+3. Learned about Django models and migrations
+4. Learned about the interaction between variables and templates
+5. Learned how to encrypt password using Django methods
+6. Learned how to create sessions for users and record them once the session ends
+7. Learned to save records for user and their session in database
